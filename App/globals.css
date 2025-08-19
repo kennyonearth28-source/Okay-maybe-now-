@@ -1,0 +1,9 @@
+:root { color-scheme: light dark; }
+html, body { margin: 0; padding: 0; font-family: -apple-system, system-ui, Segoe UI, Roboto, Helvetica, Arial, sans-serif; }
+main { max-width: 820px; margin: 40px auto; padding: 0 16px; }
+h1 { font-size: 1.6rem; margin: 0 0 16px; }
+small { opacity: .6; }
+.list { display: grid; gap: 10px; }
+.item { padding: 12px 14px; border: 1px solid #00000022; border-radius: 10px; }
+.name { font-weight: 600; }
+.meta { opacity: .8; font-size: .92rem; }
